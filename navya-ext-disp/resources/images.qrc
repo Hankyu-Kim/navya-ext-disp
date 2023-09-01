@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/AutonomousDriving.png</file>
+    <file>images/ManualDriving.png</file>
+  </qresource>
+</RCC>
