@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="navya_ext_disp" type="navya_ext_disp_node" name="navya_ext_disp_node" output="screen">
+	</node>
+</launch>
